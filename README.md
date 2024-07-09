@@ -23,16 +23,16 @@ Videos: https://youtu.be/DG93_JKQXi4
 
 ## Instalación y Uso
 
-##Backend
+1. **Beckend**:
 
-1. **Clonar el Repositorio**:
+1.1 **Clonar el Repositorio**:
 
    ```bash
    git clone https://github.com/sloty/IPCalculadora.git
    cd calculadora-ipv4
    ```
    
-3. **Instalar Dependencias**:
+1.2. **Instalar Dependencias**:
 Asegúrate de estar en el directorio del backend. Instala las dependencias utilizando `npm` o `yarn`.
 
     ```bash
@@ -40,7 +40,7 @@ Asegúrate de estar en el directorio del backend. Instala las dependencias utili
     npm install
     ```
 
-4. **Ejecutar el Backend**:
+1.3. **Ejecutar el Backend**:
    
     ```bash
     npm start
