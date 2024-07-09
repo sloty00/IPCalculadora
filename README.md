@@ -23,6 +23,8 @@ Videos: https://youtu.be/DG93_JKQXi4
 
 ## Instalación y Uso
 
+###Backend
+
 1. **Clonar el Repositorio**:
 
    ```bash
@@ -30,7 +32,7 @@ Videos: https://youtu.be/DG93_JKQXi4
    cd calculadora-ipv4
    ```
    
-2. **Instalar Dependencias**:
+3. **Instalar Dependencias**:
 Asegúrate de estar en el directorio del backend. Instala las dependencias utilizando `npm` o `yarn`.
 
     ```bash
@@ -38,7 +40,7 @@ Asegúrate de estar en el directorio del backend. Instala las dependencias utili
     npm install
     ```
 
-3. **Ejecutar el Backend**:
+4. **Ejecutar el Backend**:
    
     ```bash
     npm start
