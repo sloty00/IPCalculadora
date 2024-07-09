@@ -28,3 +28,7 @@ Videos: https://youtu.be/DG93_JKQXi4
    ```bash
    git clone https://github.com/tu_usuario/calculadora-ipv4.git
    cd calculadora-ipv4
+   ```
+   
+2. **Instalar Dependencias**:
+Asegúrate de estar en el directorio del backend. Instala las dependencias utilizando `npm` o `yarn`.
