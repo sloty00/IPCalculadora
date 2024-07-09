@@ -34,6 +34,12 @@ Videos: https://youtu.be/DG93_JKQXi4
 Asegúrate de estar en el directorio del backend. Instala las dependencias utilizando `npm` o `yarn`.
 
   ```bash
-  cd backend-repo
+  cd backend
   npm install
+  ```
+
+3. **Ejecutar el Backend**:
+   
+  ```bash
+  npm start
   ```
