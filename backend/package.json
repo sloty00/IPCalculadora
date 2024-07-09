@@ -1,0 +1,20 @@
+{
+  "name": "ip-calculator",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cidr-tools": "^10.0.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "ip": "^2.0.1",
+    "ip-address": "^9.0.5",
+    "ip-cidr": "^3.0.0",
+    "ip-subnet-calculator": "^2.0.1",
+    "ip6": "^0.2.10",
+    "subnet": "^0.0.2"
+  }
+}
