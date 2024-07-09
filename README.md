@@ -26,7 +26,7 @@ Videos: https://youtu.be/DG93_JKQXi4
 1. **Clonar el Repositorio**:
 
    ```bash
-   git clone https://github.com/tu_usuario/calculadora-ipv4.git
+   git clone https://github.com/sloty/IPCalculadora.git
    cd calculadora-ipv4
    ```
    
