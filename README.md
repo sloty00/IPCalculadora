@@ -23,7 +23,7 @@ Videos: https://youtu.be/DG93_JKQXi4
 
 ## Instalación y Uso
 
-1. **Beckend**:
+1. **Backend**:
 
 1.1 **Clonar el Repositorio**:
 
@@ -41,6 +41,22 @@ Asegúrate de estar en el directorio del backend. Instala las dependencias utili
     ```
 
 1.3. **Ejecutar el Backend**:
+   
+    ```bash
+    npm start
+    ```
+
+2. **Frontend**:
+   
+2.1. **Instalar Dependencias**:
+Asegúrate de estar en el directorio del frontend. Instala las dependencias utilizando `npm` o `yarn`.
+
+    ```bash
+    cd frontend
+    npm install
+    ```
+
+2.2. **Ejecutar el Frontend**:
    
     ```bash
     npm start
